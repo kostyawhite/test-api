@@ -1,0 +1,53 @@
+{
+  "uid" : "fe998f836957daf6",
+  "name" : "test_update_user_mobile",
+  "fullName" : "tests.test_users_api#test_update_user_mobile",
+  "historyId" : "773e6425a5add212eb05bff4d97e421b",
+  "time" : {
+    "start" : 1579960467250,
+    "stop" : 1579960467350,
+    "duration" : 100
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_users_api"
+  }, {
+    "name" : "host",
+    "value" : "kostya_white"
+  }, {
+    "name" : "thread",
+    "value" : "1064-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_users_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe998f836957daf6.json",
+  "parameterValues" : [ ]
+}

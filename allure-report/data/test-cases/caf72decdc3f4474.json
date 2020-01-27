@@ -1,0 +1,53 @@
+{
+  "uid" : "caf72decdc3f4474",
+  "name" : "test_delete_user",
+  "fullName" : "tests.test_users_api#test_delete_user",
+  "historyId" : "2756e4025c89e547ef4e0934f8b188f1",
+  "time" : {
+    "start" : 1579960467353,
+    "stop" : 1579960467413,
+    "duration" : 60
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_users_api"
+  }, {
+    "name" : "host",
+    "value" : "kostya_white"
+  }, {
+    "name" : "thread",
+    "value" : "1064-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_users_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "caf72decdc3f4474.json",
+  "parameterValues" : [ ]
+}
